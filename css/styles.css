@@ -2,11 +2,14 @@
 @import "reset.css";
 
 @import "variables.css";
-@import "screen/login.css";
 
+/* screen */
+@import "screen/login.css";
+@import "screen/friends.css";
 /* components */
 @import "components/nav-bar.css";
 @import "components/status-bar.css";
+@import "components/screen-header.css";
 
 body {
   font-family: "Open Sans", sans-serif;
