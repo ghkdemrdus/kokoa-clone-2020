@@ -1,0 +1,13 @@
+#friends-display-link {
+  text-align: center;
+  display: block;
+  background-color: #fafafa;
+  margin: 15px 0px;
+}
+#friends-display-link i {
+  color: #2f363e;
+}
+
+.user-components__column {
+  display: flex;
+}
