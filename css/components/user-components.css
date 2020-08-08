@@ -9,14 +9,14 @@
 }
 
 .user-components__avator {
-  width: 50px;
-  height: 50px;
-  border-radius: 30%;
-  margin-right: 10px;
-}
-.user-components__avator--xl {
   width: 60px;
   height: 60px;
+  border-radius: 30%;
+  margin-right: 20px;
+}
+.user-components__avator--xl {
+  width: 80px;
+  height: 80px;
 }
 .user-components__title {
   font-size: 20px;
