@@ -6,6 +6,8 @@
 /* screen */
 @import "screen/login.css";
 @import "screen/friends.css";
+@import "screen/find.css";
+
 /* components */
 @import "components/nav-bar.css";
 @import "components/status-bar.css";
@@ -17,6 +19,6 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-.main-screen{
+.main-screen {
   padding: 0px var(--horizontal-space);
 }

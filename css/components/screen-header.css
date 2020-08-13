@@ -9,6 +9,17 @@
   font-size: 25px;
   font-weight: 600;
 }
+.screen-header__icon {
+  display: flex;
+  position: relative;
+}
 .screen-header__icon span {
   margin-left: 20px;
+}
+
+.screen-header__new {
+  display: flex;
+  position: absolute;
+  right: -5px;
+  bottom: 20px;
 }
