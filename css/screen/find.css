@@ -35,3 +35,23 @@
 .open-chat__header span {
   opacity: 0.6;
 }
+.open-post {
+  display: flex;
+}
+.open-post__title {
+  font-weight: 600;
+  margin-bottom: 7px;
+}
+.open-post__hashtag {
+  opacity: 0.6;
+  text-transform: uppercase;
+  margin-bottom: 7px;
+}
+.open-post__members {
+  display: flex;
+}
+.open-post__members img {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
