@@ -1,0 +1,29 @@
+.more-screen .icons {
+  margin-top: 50px;
+}
+.more-screen .icons:nth-child(3) {
+  padding-bottom: 30px;
+  border-bottom: var(--main-border);
+}
+.more-suggestions__title {
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
+.more-suggestions__icon-image {
+  display: flex;
+  width: 45px;
+  height: 45px;
+  background-color: var(--yellow);
+  border-radius: 15%;
+  align-items: center;
+  justify-content: center;
+}
+.more-suggestions__icon-image i {
+  font-size: 25px;
+  color: white;
+}
+.more-suggestions__icon-text {
+  opacity: 0.5;
+  font-size: 13px;
+}

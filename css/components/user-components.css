@@ -15,7 +15,9 @@
   flex-direction: column;
   align-items: flex-end;
 }
-
+.user-components__column .fa-comment-alt {
+  color: black;
+}
 .user-component__time {
   margin-bottom: 10px;
   display: block;
@@ -38,6 +40,7 @@
 .user-components__title {
   font-size: 20px;
   font-weight: 600;
+  margin-bottom: 10px;
 }
 .user-components__title--not-bold {
   font-weight: 400;
@@ -45,9 +48,15 @@
 .user-components__subtitle {
   font-size: 15px;
   color: rgba(0, 0, 0, 0.5);
-  padding-top: 10px;
+  margin-right: 5px;
 }
-
+.user-components__account {
+  display: flex;
+  align-items: center;
+}
+.user-components__account span {
+  color: tomato;
+}
 .fa-chevron-right {
   padding-left: 5px;
 }
