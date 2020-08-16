@@ -8,11 +8,13 @@
 @import "screen/friends.css";
 @import "screen/find.css";
 @import "screen/more.css";
+@import "screen/settings.css";
 
 /* components */
 @import "components/nav-bar.css";
 @import "components/status-bar.css";
 @import "components/screen-header.css";
+@import "components/alt-screen-header.css";
 @import "components/user-components.css";
 @import "components/badge.css";
 @import "components/icon-rows.css";
