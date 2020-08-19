@@ -1,6 +1,9 @@
 .settings-list:last-child {
   margin-bottom: 75px;
 }
+.settings-screen {
+  margin-top: 70px;
+}
 .settings-setting {
   padding: 20px 0;
   font-size: 20px;
